@@ -1,0 +1,8 @@
+{
+  "avg_nees": 2.14,
+  "nees_inside_95": 0.873,
+  "avg_nis": 2.0,
+  "ekf_rmse_m": 0.68,
+  "rejected": 20,
+  "true_outliers": 15
+}
